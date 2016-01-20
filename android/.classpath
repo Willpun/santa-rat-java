@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry exported="true" kind="src" path="/Santa-core"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Will/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-android/1.5.6/3031ab23b99fca1c102ad9fa866aeb06f938b8e2/gdx-backend-android-1.5.6.jar" sourcepath="C:/Users/Will/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-android/1.5.6/c251caa01b5456a0772b6cf078a4005b2ae72eed/gdx-backend-android-1.5.6-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Will/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.5.6/93418008f79684e0fbe15d487c82c21b63389f18/gdx-1.5.6.jar" sourcepath="C:/Users/Will/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.5.6/478a70a74278275ea7a73ae1bf4519c5162ff388/gdx-1.5.6-sources.jar"/>
+	<classpathentry kind="lib" path="libs/android-support-v7-appcompat.jar"/>
+	<classpathentry kind="lib" path="libs/android-support-v4.jar"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="lib" path="/Santa-core/build/libs/tween-engine-api-sources.jar"/>
+	<classpathentry kind="lib" path="/Santa-core/build/libs/tween-engine-api.jar"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
